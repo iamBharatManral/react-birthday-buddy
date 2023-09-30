@@ -1,0 +1,23 @@
+.profiles {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+    width: 60vw;
+    border-radius: 10px;
+    background: palegoldenrod;
+    margin: 0 auto;
+}
+
+.profile__heading {
+    font-size: 2rem;
+}
+
+.profiles button {
+    font-size: 1.2rem;
+    padding: 5px 10px;
+    background: darkred;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
